@@ -1,0 +1,17 @@
+Maximum Queue Size
+Difficulty      uniform_cost              misplaced_tile            euclidean_distance       
+Trivial         1                         1                         1                        
+VeryEasy       5                         3                         3
+Easy            4                         3                         3                        
+Doable          18                        4                         4                        
+OhBoy          24969                     3846                      589
+Impossible      24175                     22736                     18189                    
+
+Number of Nodes Expanded
+Difficulty      uniform_cost              misplaced_tile            euclidean_distance       
+Trivial         1                         1                         1                        
+VeryEasy       4                         2                         2
+Easy            4                         3                         3                        
+Doable          29                        5                         5                        
+OhBoy          85525                     6718                      1035
+Impossible      181440                    181440                    181440                   
